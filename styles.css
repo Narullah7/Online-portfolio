@@ -11,13 +11,13 @@ body {
   #about {
     width: 1400px;
     height: 774px;
-    background-color: blue;
+    background-color: lightgray;
   }
 
   #experience {
     width: 1400px;
     height:774px;
-    background-color: red;
+    background-color: lightgray;
   }
 
   nav {
@@ -40,3 +40,23 @@ body {
     font-size: 20px;
     font-family: sans-serif;
   }
+
+  .maintext {
+    width: 1400px;
+    height: 774px;
+  }
+
+  h1 {
+    color: white;
+    text-align: center;
+    padding-top: 216px;
+    padding-right: 222px;
+    font-size: 40px;
+  }
+
+  /*footer {
+    width: 1400px;
+    height: 100px;
+    position: absolute;
+    bottom: -33px;
+  }*/
