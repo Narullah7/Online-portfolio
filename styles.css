@@ -4,19 +4,19 @@ body {
 
   #homepage {
   width: 1400px;
-  height: 774px;
+  height: 818px;
   background-image: url("cs-homepage.jpg");
   }
 
   #about {
     width: 1400px;
-    height: 774px;
+    height: 818px;
     background-color: lightgray;
   }
 
   #experience {
     width: 1400px;
-    height:774px;
+    height:818px;
     background-color: lightgray;
   }
 
@@ -43,7 +43,7 @@ body {
 
   .maintext {
     width: 1400px;
-    height: 774px;
+    height: 818px;
   }
 
   h1 {
@@ -53,15 +53,15 @@ body {
     padding-right: 222px;
     font-size: 40px;
   }
-
+/*
   @media screen and (max-width: 869px;) {
     h1 {
-      /*padding-right: 873px;*/
+      padding-right: 873px;
       padding-right: none;
       text-align: none;
 
     }
-  }
+  }*/
 
   /*footer {
     width: 1400px;
