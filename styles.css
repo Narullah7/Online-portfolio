@@ -54,6 +54,15 @@ body {
     font-size: 40px;
   }
 
+  @media screen and (max-width: 869px;) {
+    h1 {
+      /*padding-right: 873px;*/
+      padding-right: none;
+      text-align: none;
+
+    }
+  }
+
   /*footer {
     width: 1400px;
     height: 100px;
