@@ -1,3 +1,42 @@
 body {
   font-family: sans-serif;
   }
+
+  #homepage {
+  width: 1400px;
+  height: 774px;
+  background-image: url("cs-homepage.jpg");
+  }
+
+  #about {
+    width: 1400px;
+    height: 774px;
+    background-color: blue;
+  }
+
+  #experience {
+    width: 1400px;
+    height:774px;
+    background-color: red;
+  }
+
+  nav {
+    width: 1400px;
+    height: 100px;
+    background-color: black;
+  }
+
+  a {
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+  }
+
+  button{
+    padding: 32px 77px;
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+  }
