@@ -90,13 +90,13 @@ body {
 }
 
 .row-2 {
-  background-color: gray;
+  background-color: darkblue;
   height: 826px;
   width: 1450px;
 }
 
 .row-3 {
-  background-color: gray;
+  background-color: lightblue;
   height: 826px;
   width: 1450px;
 }
@@ -106,4 +106,21 @@ button {
   margin-top: 11px;
   font-size: 27px;
   border-radius: 20px;
+}
+
+section {
+  margin-left: 284px;
+  padding-top: 304px;
+  color: white;
+  font-family: sans-serif;
+}
+
+img {
+  height: 123px;
+  float: left;
+}
+
+.navbar-fixed-top {
+  background-color: black;
+  height: 73px;
 }
