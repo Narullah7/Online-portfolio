@@ -130,11 +130,15 @@ img {
   font-size: 77px;
   padding-top: 63px;
   color: white;
-  text-decoration: underline;
+
 }
 
 .row-4 {
   background-color: yellow;
   height: 413px;
   width: 1450px;
+}
+
+p {
+  font-size: 18px;
 }
