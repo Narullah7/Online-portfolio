@@ -16,4 +16,4 @@ I was also unable to complete my indentation and responsiveness because I ran ou
 ### What Im pleased with
 
 I am most pleased about being able to have a navigation stick to the top of the page while the user browses the webpage, I was especially happy with the way it was presented.
-I was also happy with how my "experience page" turned out because it looks very professional and was very happy with the outcome of my page.
+I was also happy with how my "experience page" turned out because it looks very professional.
